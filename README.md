@@ -31,22 +31,25 @@ A full-featured MERN stack trading platform clone inspired by Zerodha. This appl
 Add screenshots inside a screenshots/ folder and reference them here
 
 ### Page	Preview
-**Home Page**
+#### Home Page
+
 ![zerodha_home](https://github.com/user-attachments/assets/3294c443-f060-4bc3-af62-9552671b36f5)
 
-**Signup Page**
+#### Signup Page
+
 ![zerodha_signup](https://github.com/user-attachments/assets/34c5daa8-0e08-4708-81fc-bd1c043d3034)
 
-**Dashboard**
+#### Dashboard
+
 ![zerodha_dashboard](https://github.com/user-attachments/assets/9a787097-41f8-46a5-952a-2a9143510e9a)
 
 ## ⚙️ Usage
 1. Visit the homepage to browse general sections, such as About and Pricing.
 2. Click the user icon and log in or register.
 3. Access the Dashboard to:
-- Track your holdings and positions
-- Visualize data with charts
-- Use the wishlist and order actions
+  - Track your holdings and positions
+  - Visualize data with charts
+  - Use the wishlist and order actions
 
 ## ✅ Testing
 This project uses Jest and React Testing Library to validate UI and component behavior.
