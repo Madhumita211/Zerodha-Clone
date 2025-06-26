@@ -72,8 +72,8 @@ const Signup = () => {
         <div className="row">
           <div className="col-12 col-sm-7">
             <img
-              src="assets\signupPageIMG.png"
-              alt=""
+              src="media/images/signup.png"
+              alt="signup"
               style={{ width: "100%" }}
             />
           </div>
